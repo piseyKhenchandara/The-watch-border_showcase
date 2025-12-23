@@ -8,7 +8,13 @@ Watch Border is dedicated to delivering accurate, timely information about the C
 
 ---
 
-## Live Demo
+---
+
+## Full Demo Video
+
+[Watch the complete walkthrough on YouTube](https://www.youtube.com/watch?v=XYZACfvH6uM)
+
+---
 
 ### Authentication System
 ![Authentication Flow](./authen.gif)
